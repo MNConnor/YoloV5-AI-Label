@@ -1,0 +1,10 @@
+Vehicle
+Emergency Vehicle
+Person
+Bicycle
+Animal
+Motorcycle
+Stop Sign
+Green Traffic Light
+Yellow Traffic Light
+Red Traffic Light
